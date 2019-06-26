@@ -1,0 +1,33 @@
+.block1 { 
+  /*width: 500px;*/
+  padding: 5px;
+  border: solid 3px black; 
+  float: center;
+  border-radius: 10px 10px 10px 10px;
+}
+.h3_new {
+  position: relative; /* Абсолютное позиционирование положение элемента устанавливается относительно его исходного места */
+  top: 50px; /* Положение от верхнего края */
+  line-height: 1px;
+  color: white;
+  font-family: Arial;
+  font-size: 15pt;
+  text-shadow: 2px 5px 3px black;
+}
+a {
+  text-decoration: none; /* Убирает подчеркивание для ссылок */
+}
+div.sl{
+  width: 70%;
+  padding: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #4b658c;
+  text-align: center;
+  border-radius: 10px;
+}
+img.img_sl {
+  padding: 5px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+}
